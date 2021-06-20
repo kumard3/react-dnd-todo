@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { DragDropContext, Droppable, Draggable } from "react-beautiful-dnd";
 import { v4 as uuid } from 'uuid';
